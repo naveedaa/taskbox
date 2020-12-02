@@ -1,0 +1,22 @@
+.emptyListWrapper{
+    margin: 5vh auto;
+    text-align: center;
+}
+
+
+.emptyListWrapper .tickIcon{
+    transform: scale(3.0);
+    color: green;
+    margin-bottom: 5vh;
+
+}
+
+.emptyListWrapper .emptyListText{
+    font-size: 5vh;
+}
+
+.loader{
+   
+    text-align: center;
+    margin-top: 5vh;
+}

@@ -1,0 +1,71 @@
+.newTaskContainer {
+
+
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 70%;
+
+    padding: 5vh;
+
+    padding-top: 3vh;
+
+    text-align: center;
+
+    background-color: white;
+
+    margin: 0 auto;
+
+
+
+
+
+}
+
+
+
+.newTaskContainer .newTaskHeading {
+
+
+
+    font-size: 4vh;
+
+    margin-bottom: 15vh;
+
+    color: black
+
+}
+
+
+
+
+
+.newTaskContainer input[type=text] {
+
+
+
+    padding: 3vh 2vh;
+
+    font-size: 1rem;
+
+    margin-bottom: 6vh;
+
+}
+
+
+
+.newTaskContainer .buttonContainer {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+
+    width: 40vw;
+
+    margin: 0 auto
+
+}
